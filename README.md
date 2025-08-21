@@ -11,8 +11,10 @@ This study proposes that the mass hierarchy of elementary particles is governed 
 
 ## Content
 
-* **/paper/**
+* **/pdf/**
     * Akahoshi_RAT_Preprint_2025.pdf: The full manuscript of the paper.
+* **/zip/**
+    * 
 * **/figs/**
     * Contains all figures presented in the paper.
 
