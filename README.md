@@ -12,7 +12,8 @@ This study proposes that the mass hierarchy of elementary particles is governed 
 ## Content
 
 * **/pdf/**
-    * Akahoshi_RAT_Preprint_2025.pdf: The full manuscript of the paper.
+    * A_Geometric_Origin_of_the_Elementary_Particle_Mass_Spectrum__1_ (1).pdf
+: The full manuscript of the paper.
 * **/zip/**
     * 
 * **/figs/**
