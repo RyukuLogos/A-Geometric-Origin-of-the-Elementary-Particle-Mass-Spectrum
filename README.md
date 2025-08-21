@@ -16,7 +16,7 @@ This study proposes that the mass hierarchy of elementary particles is governed 
 : The full manuscript of the paper.
 * **/zip/**
     * A_Geometric_Origin_of_the_Elementary_Particle_Mass_Spectrum__1_ (1).zip
-   latex and figs
+   :latex and figs
 
 
 ## Citation
