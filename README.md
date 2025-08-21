@@ -21,4 +21,4 @@ This study proposes that the mass hierarchy of elementary particles is governed 
 ## Citation
 
 If you wish to cite this work, please use the DOI provided by Zenodo:
-**[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16913761.svg)](https://doi.org/10.5281/zenodo.16913761)**
+**[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16920040.svg)](https://doi.org/10.5281/zenodo.16920040)**
